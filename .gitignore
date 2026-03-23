@@ -1,0 +1,9 @@
+*venv/
+.env
+.DS_Store
+*.tmp
+*.swp
+__pycache__/
+context/
+.claude/
+authcert.pem
